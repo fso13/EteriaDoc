@@ -1,9 +1,9 @@
 ---
-order: 0.3
+order: 6
 title: ТЕНИ НАД КОНКЛАВОМ
 ---
 
-![](./teni-nad-konklavom.jpeg){width=1080px height=1920px}
+![](./_index.jpeg){width=1080px height=1920px}
 
 <note>
 
