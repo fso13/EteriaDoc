@@ -1,5 +1,6 @@
 ---
 order: 1.5
-title: Сталь и Верность
+title: Оружейня «Сталь и Верность»
 ---
 
+<view defs="hierarchy=none" display="List"/>

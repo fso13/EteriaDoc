@@ -1,5 +1,6 @@
 ---
 order: 17
-title: Позолоченный Единорог
+title: Постоялый двор Позолоченный Единорог
 ---
 
+<view defs="hierarchy=none" display="List"/>

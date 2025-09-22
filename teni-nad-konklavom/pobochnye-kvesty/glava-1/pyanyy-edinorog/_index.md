@@ -1,5 +1,6 @@
 ---
 order: 1
-title: Пьяный Единорог
+title: Таверна «Пьяный Единорог»
 ---
 
+<view defs="hierarchy=none" display="List"/>
