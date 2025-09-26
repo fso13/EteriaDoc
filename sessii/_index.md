@@ -1,6 +1,6 @@
 ---
-order: 0.4
-title: Аванюристы
+order: 7
+title: Сессии
 ---
 
 <view defs="hierarchy=none" display="List"/>
