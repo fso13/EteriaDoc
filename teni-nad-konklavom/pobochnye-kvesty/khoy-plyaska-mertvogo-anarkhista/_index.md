@@ -1,9 +1,9 @@
 ---
-order: 1.7
-title: Хой! Пляска Мертвого Анархиста
+order: 0.7
+title: Хой! Пляска Мертвого Анархиста (3-5 ур)
 ---
 
-![](./khoy-plyaska-mertvogo-anarkhista.png){width=717px height=1024px}
+![](./_index.png){width=717px height=1024px}
 
 
 

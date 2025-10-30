@@ -1,6 +1,6 @@
 ---
-order: 9.8
-title: Недобрый знак с моря
+order: 0.9
+title: Недобрый знак с моря (5-7 ур)
 ---
 
 ![](./nedobryy-znak-s-morya.png){width=669px height=1024px}

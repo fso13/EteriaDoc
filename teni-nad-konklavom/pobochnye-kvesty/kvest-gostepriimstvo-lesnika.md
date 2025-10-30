@@ -1,6 +1,6 @@
 ---
-order: 7.3
-title: Гостеприимство Лесника
+order: 0.5
+title: Гостеприимство Лесника(2-4 ур)
 ---
 
 ![](./kvest-gostepriimstvo-lesnika.png){width=1024px height=1536px}
