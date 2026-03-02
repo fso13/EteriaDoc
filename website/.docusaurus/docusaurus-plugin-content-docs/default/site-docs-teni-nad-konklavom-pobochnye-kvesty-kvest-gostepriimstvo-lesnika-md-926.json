@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/kvest-gostepriimstvo-lesnika",
+  "title": "Гостеприимство Лесника(2-4 ур)",
+  "description": "Краткий обзор",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/kvest-gostepriimstvo-lesnika.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/kvest-gostepriimstvo-lesnika",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kvest-gostepriimstvo-lesnika",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "order": 0.5,
+    "title": "Гостеприимство Лесника(2-4 ур)",
+    "sidebar_position": 0.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочные квесты",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/"
+  },
+  "next": {
+    "title": "Проклятый старый дом (3-4 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/proklyatyy-staryy-dom-3-4-ur"
+  }
+}

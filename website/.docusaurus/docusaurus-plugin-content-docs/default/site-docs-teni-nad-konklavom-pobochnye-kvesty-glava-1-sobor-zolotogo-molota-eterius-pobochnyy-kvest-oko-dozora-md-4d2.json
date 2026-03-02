@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora",
+  "title": "Побочный квест: «Око Дозора»",
+  "description": "Дающий Солнцеград, Базилика Этериуса Награда: 500 зм, официальная благодарность Ордена Алого Рассвета (дает преимущество на проверки Обмана и Запугивания при взаимодействии с церковными и светскими властями Ауреи), Амулет Рвения (1 раз в день позволяет перебросить проваленную проверку Убеждения или Запугивания против существа, имеющего отношение к церкви или магии).",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.5,
+  "frontMatter": {
+    "order": 2.5,
+    "title": "Побочный квест: «Око Дозора»",
+    "sidebar_position": 2.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Милость к падшим»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim"
+  },
+  "next": {
+    "title": "Монах-целитель у Собора Золотого Молота",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/"
+  }
+}

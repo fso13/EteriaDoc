@@ -1,0 +1,28 @@
+{
+  "id": "eteriya-lor/index",
+  "title": "Путеводитель по Этерии",
+  "description": "Глава 1. Предания о Этерии",
+  "source": "@site/docs/eteriya-lor/index.md",
+  "sourceDirName": "eteriya-lor",
+  "slug": "/eteriya-lor/",
+  "permalink": "/EteriaDoc/eteriya-lor/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.2,
+  "frontMatter": {
+    "order": 0.2,
+    "title": "Путеводитель по Этерии",
+    "sidebar_position": 0.2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Прегены",
+    "permalink": "/EteriaDoc/home/pregeny"
+  },
+  "next": {
+    "title": "Список  НПС Этерии",
+    "permalink": "/EteriaDoc/eteriya-lor/nps-mira"
+  }
+}

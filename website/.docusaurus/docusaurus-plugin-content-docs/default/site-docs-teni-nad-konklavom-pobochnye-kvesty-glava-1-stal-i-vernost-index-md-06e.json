@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/index",
+  "title": "Оружейня «Сталь и Верность»",
+  "description": "",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1.5,
+  "frontMatter": {
+    "order": 1.5,
+    "title": "Оружейня «Сталь и Верность»",
+    "sidebar_position": 1.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Долг чести»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pyanyy-edinorog/pobochnyy-kvest-dolg-chesti"
+  },
+  "next": {
+    "title": "Побочный квест: «Украденные клинки»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/pobochnyy-kvest-ukradennye-klinki"
+  }
+}

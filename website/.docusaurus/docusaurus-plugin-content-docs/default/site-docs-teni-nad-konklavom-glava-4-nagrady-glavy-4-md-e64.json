@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-4/nagrady-glavy-4",
+  "title": "Награды Главы 4",
+  "description": "- Сокровища: С Торна падает Амулет защиты +2 и его записи. С Дурна -- Молот Вулкана (см. прошлые сообщения).",
+  "source": "@site/docs/teni-nad-konklavom/glava-4/nagrady-glavy-4.md",
+  "sourceDirName": "teni-nad-konklavom/glava-4",
+  "slug": "/teni-nad-konklavom/glava-4/nagrady-glavy-4",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/nagrady-glavy-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "order": 5,
+    "title": "Награды Главы 4",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Переход к следующей сцене (Эпилог)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog"
+  },
+  "next": {
+    "title": "Бестиарий Главы 4: Глубинная Кузня",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/bestiariy-glavy-4-glubinnaya-kuznya"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-pepelnye-torgovcy",
+  "title": "Побочный квест: «Пепельные торговцы»",
+  "description": "Источник: Сторож Горм, пожилой, но бдительный veteran, несущий службу на Площади Ясного Неба.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-pepelnye-torgovcy.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-pepelnye-torgovcy",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-pepelnye-torgovcy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 2,
+    "title": "Побочный квест: «Пепельные торговцы»",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Огненные следы»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy"
+  },
+  "next": {
+    "title": "Сестра Алисия",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sestra-alisiya/"
+  }
+}

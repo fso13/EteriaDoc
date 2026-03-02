@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-3/final-put-v-glubinu",
+  "title": "Финал: Путь в Глубину",
+  "description": "Предыдущая сцена: Герои получили доступ в Нижние Ярусы Глубинной Кузни, разобравшись с Надзирателем Граззом или обманув его.",
+  "source": "@site/docs/teni-nad-konklavom/glava-3/final-put-v-glubinu.md",
+  "sourceDirName": "teni-nad-konklavom/glava-3",
+  "slug": "/teni-nad-konklavom/glava-3/final-put-v-glubinu",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-3/final-put-v-glubinu",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "order": 4,
+    "title": "Финал: Путь в Глубину",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 3: Пещера Забытых Теней",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-3/kvest-3-peschera-zabytykh-teney"
+  },
+  "next": {
+    "title": "Награды",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-3/nagrady"
+  }
+}

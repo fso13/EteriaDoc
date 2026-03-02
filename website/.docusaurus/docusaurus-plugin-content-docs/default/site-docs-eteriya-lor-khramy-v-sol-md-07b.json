@@ -1,0 +1,28 @@
+{
+  "id": "eteriya-lor/khramy-v-sol",
+  "title": "Храмы в Солнцеграде",
+  "description": "---",
+  "source": "@site/docs/eteriya-lor/khramy-v-sol.md",
+  "sourceDirName": "eteriya-lor",
+  "slug": "/eteriya-lor/khramy-v-sol",
+  "permalink": "/EteriaDoc/eteriya-lor/khramy-v-sol",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "order": 0.5,
+    "title": "Храмы в Солнцеграде",
+    "sidebar_position": 0.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Список  НПС Этерии",
+    "permalink": "/EteriaDoc/eteriya-lor/nps-mira"
+  },
+  "next": {
+    "title": "Культ «Сынов Безмолвного Шепота»",
+    "permalink": "/EteriaDoc/eteriya-lor/kult-synov-bezmolvnogo-shepota"
+  }
+}

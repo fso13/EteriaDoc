@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-ranenyy-v-nochi",
+  "title": "Побочный квест: «Раненый в ночи»",
+  "description": "Дающий: Брат Корвинус, молодой монах-целитель ордена Танатоса, несущий службу при Соборе Золотого Молота.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-ranenyy-v-nochi.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-ranenyy-v-nochi",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-ranenyy-v-nochi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Побочный квест: «Раненый в ночи»",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Монах-целитель у Собора Золотого Молота",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/"
+  },
+  "next": {
+    "title": "Побочный квест: «Святое место»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-svyatoe-mesto"
+  }
+}

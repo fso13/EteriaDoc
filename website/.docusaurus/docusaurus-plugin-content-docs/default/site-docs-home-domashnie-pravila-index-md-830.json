@@ -1,0 +1,28 @@
+{
+  "id": "home/domashnie-pravila/index",
+  "title": "Домашние правила",
+  "description": "",
+  "source": "@site/docs/home/domashnie-pravila/index.md",
+  "sourceDirName": "home/domashnie-pravila",
+  "slug": "/home/domashnie-pravila/",
+  "permalink": "/EteriaDoc/home/domashnie-pravila/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.1,
+  "frontMatter": {
+    "order": 0.1,
+    "title": "Домашние правила",
+    "sidebar_position": 0.1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/EteriaDoc/home/"
+  },
+  "next": {
+    "title": "Искусство кузнеца",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca"
+  }
+}

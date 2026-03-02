@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista/index",
+  "title": "Хой! Пляска Мертвого Анархиста (3-5 ур)",
+  "description": "Обзор",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.7,
+  "frontMatter": {
+    "order": 0.7,
+    "title": "Хой! Пляска Мертвого Анархиста (3-5 ур)",
+    "sidebar_position": 0.7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Проклятый старый дом (3-4 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/proklyatyy-staryy-dom-3-4-ur"
+  },
+  "next": {
+    "title": "Недобрый знак с моря (5-7 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya"
+  }
+}

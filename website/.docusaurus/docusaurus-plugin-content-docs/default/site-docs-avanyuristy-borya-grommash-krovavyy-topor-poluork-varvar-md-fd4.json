@@ -1,0 +1,28 @@
+{
+  "id": "avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar",
+  "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+  "description": "История",
+  "source": "@site/docs/avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar.md",
+  "sourceDirName": "avanyuristy",
+  "slug": "/avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar",
+  "permalink": "/EteriaDoc/avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.4,
+  "frontMatter": {
+    "order": 2.4,
+    "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+    "sidebar_position": 2.4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Родион: Сигурд Громобой (Горный дварф, воин)",
+    "permalink": "/EteriaDoc/avanyuristy/rodion-sigurd-gromoboy-gornyy-dvarf-voin"
+  },
+  "next": {
+    "title": "Миша: Жрец Каэль Арден",
+    "permalink": "/EteriaDoc/avanyuristy/misha-zhrec-kael-arden"
+  }
+}

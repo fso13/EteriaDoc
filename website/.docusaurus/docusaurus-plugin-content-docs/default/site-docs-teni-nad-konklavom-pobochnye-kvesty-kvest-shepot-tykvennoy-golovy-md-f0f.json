@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy",
+  "title": "Шёпот Тыквенной Головы",
+  "description": "---",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3.4,
+  "frontMatter": {
+    "order": 3.4,
+    "title": "Шёпот Тыквенной Головы",
+    "sidebar_position": 3.4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Кукловод из Солнцеграда (5-7 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada"
+  },
+  "next": {
+    "title": "Хозяин леса",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa/"
+  }
+}

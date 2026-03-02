@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-1/nps",
+  "title": "Персонажи Главы 1: «Шепот в камне»",
+  "description": "---",
+  "source": "@site/docs/teni-nad-konklavom/glava-1/nps.md",
+  "sourceDirName": "teni-nad-konklavom/glava-1",
+  "slug": "/teni-nad-konklavom/glava-1/nps",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/nps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "order": 9,
+    "title": "Персонажи Главы 1: «Шепот в камне»",
+    "sidebar_position": 9
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Лавки/Таверны Солнцеграда",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/lavki-taverny"
+  },
+  "next": {
+    "title": "Глава 2: Удавка голода (Уровни 5-7)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-2/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog",
+  "title": "Переход к следующей сцене (Эпилог)",
+  "description": "После победы: С падением Торна зелёный свет гаснет. Трещины на стенах затягиваются. Шёпот стихает, сменяясь оглушительной тишиной. Фрагменты Камня, теперь тусклые, падают на пол.",
+  "source": "@site/docs/teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog.md",
+  "sourceDirName": "teni-nad-konklavom/glava-4",
+  "slug": "/teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "order": 4,
+    "title": "Переход к следующей сцене (Эпилог)",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 3: Сердце Тьмы (Финальная конфронтация)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya"
+  },
+  "next": {
+    "title": "Награды Главы 4",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/nagrady-glavy-4"
+  }
+}

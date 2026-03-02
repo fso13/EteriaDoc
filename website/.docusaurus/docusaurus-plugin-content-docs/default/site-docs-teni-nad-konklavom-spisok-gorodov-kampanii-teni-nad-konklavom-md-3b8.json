@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom",
+  "title": "Список городов кампании «Тени над Конклавом»",
+  "description": "Княжество Аурея (Столичное)",
+  "source": "@site/docs/teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom.md",
+  "sourceDirName": "teni-nad-konklavom",
+  "slug": "/teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8.7,
+  "frontMatter": {
+    "order": 8.7,
+    "title": "Список городов кампании «Тени над Конклавом»",
+    "sidebar_position": 8.7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Миша: Жрец Каэль Арден",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden"
+  },
+  "next": {
+    "title": "Слухи",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/slukhi"
+  }
+}

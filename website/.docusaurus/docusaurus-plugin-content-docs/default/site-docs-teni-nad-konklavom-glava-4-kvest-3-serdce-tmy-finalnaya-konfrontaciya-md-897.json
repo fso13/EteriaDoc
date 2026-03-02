@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya",
+  "title": "Квест 3: Сердце Тьмы (Финальная конфронтация)",
+  "description": "Уровень: 13+",
+  "source": "@site/docs/teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya.md",
+  "sourceDirName": "teni-nad-konklavom/glava-4",
+  "slug": "/teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "order": 3,
+    "title": "Квест 3: Сердце Тьмы (Финальная конфронтация)",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 2: Заговор в Тени",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-2-zagovor-v-teni"
+  },
+  "next": {
+    "title": "Переход к следующей сцене (Эпилог)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog"
+  }
+}

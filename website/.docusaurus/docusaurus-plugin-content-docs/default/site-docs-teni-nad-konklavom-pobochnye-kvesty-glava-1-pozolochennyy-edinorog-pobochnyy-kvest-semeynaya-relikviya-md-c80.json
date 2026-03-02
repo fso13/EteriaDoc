@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/pobochnyy-kvest-semeynaya-relikviya",
+  "title": "Побочный квест: «Семейная реликвия»",
+  "description": "Источник Лорд Элрик ван Дермонт, знатный дворянин из Ауреи. Награда: 50 зм, благосклонность дома ван Дермонт (может помочь с доступом в высшее общество или получением аудиенции у князя).",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/pobochnyy-kvest-semeynaya-relikviya.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/pobochnyy-kvest-semeynaya-relikviya",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/pobochnyy-kvest-semeynaya-relikviya",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "order": 4,
+    "title": "Побочный квест: «Семейная реликвия»",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Постоялый двор Позолоченный Единорог",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/"
+  },
+  "next": {
+    "title": "Собор Золотого Молота (Этериус)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/"
+  }
+}

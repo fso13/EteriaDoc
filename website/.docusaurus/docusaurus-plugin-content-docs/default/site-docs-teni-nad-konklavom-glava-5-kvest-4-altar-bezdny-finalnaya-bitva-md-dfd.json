@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-5/kvest-4-altar-bezdny-finalnaya-bitva",
+  "title": "Квест 4: Алтарь Бездны (Финальная битва)",
+  "description": "Цель: Остановить Келвина Торна.",
+  "source": "@site/docs/teni-nad-konklavom/glava-5/kvest-4-altar-bezdny-finalnaya-bitva.md",
+  "sourceDirName": "teni-nad-konklavom/glava-5",
+  "slug": "/teni-nad-konklavom/glava-5/kvest-4-altar-bezdny-finalnaya-bitva",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-4-altar-bezdny-finalnaya-bitva",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "order": 4,
+    "title": "Квест 4: Алтарь Бездны (Финальная битва)",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 3: Неф Кошмаров (Главная битва)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-3-nef-koshmarov-glavnaya-bitva"
+  },
+  "next": {
+    "title": "Награды Главы 5",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/nagrady-glavy-5"
+  }
+}

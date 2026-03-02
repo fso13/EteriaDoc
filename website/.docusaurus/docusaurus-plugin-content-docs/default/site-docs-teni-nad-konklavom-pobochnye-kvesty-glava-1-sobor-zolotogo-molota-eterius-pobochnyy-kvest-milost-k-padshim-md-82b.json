@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim",
+  "title": "Побочный квест: «Милость к падшим»",
+  "description": "Отлично! Вот детализированная версия этого побочного квеста, идеально вписанная в атмосферу Солнцеграда.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.7,
+  "frontMatter": {
+    "order": 0.7,
+    "title": "Побочный квест: «Милость к падшим»",
+    "sidebar_position": 0.7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Собор Золотого Молота (Этериус)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/"
+  },
+  "next": {
+    "title": "Побочный квест: «Око Дозора»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora"
+  }
+}

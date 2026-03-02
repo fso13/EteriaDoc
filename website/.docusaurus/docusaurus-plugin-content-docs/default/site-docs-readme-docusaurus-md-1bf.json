@@ -1,0 +1,19 @@
+{
+  "id": "README-DOCUSAURUS",
+  "title": "Миграция на Docusaurus",
+  "description": "Проект Этерия успешно мигрирован с Gramax на Docusaurus — статический генератор документации.",
+  "source": "@site/docs/README-DOCUSAURUS.md",
+  "sourceDirName": ".",
+  "slug": "/README-DOCUSAURUS",
+  "permalink": "/README-DOCUSAURUS",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Сессия 0",
+    "permalink": "/sessii/sessiya-0"
+  }
+}

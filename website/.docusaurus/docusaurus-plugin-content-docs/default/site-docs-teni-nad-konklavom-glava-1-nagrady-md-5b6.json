@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-1/nagrady",
+  "title": "Награды",
+  "description": "- Сокровища: С каждого культиста можно найти по 10-15 зм, у Брайса -- серебряный кинжал со спиралью (25 зм) и Амулет Защиты (+1 к КД, пока носишь).",
+  "source": "@site/docs/teni-nad-konklavom/glava-1/nagrady.md",
+  "sourceDirName": "teni-nad-konklavom/glava-1",
+  "slug": "/teni-nad-konklavom/glava-1/nagrady",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/nagrady",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "order": 6,
+    "title": "Награды",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Эпилог: Аудиенция у князя",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/epilog-audienciya-u-knyazya"
+  },
+  "next": {
+    "title": "Бестиарий",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/bestiariy"
+  }
+}

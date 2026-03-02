@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-chest-klana",
+  "title": "Побочный квест: «Честь Клана»",
+  "description": "Дающий Фростхольд, Пики Стылой Крови, Хаймрок Награда: 250 зм, уникальный магический топор «Сердце Зимы» (+1 к атаке и урону, 1 раз в день можно наложить на цель Ледяной клинок на 1 минуту), благосклонность клана Скай-Айс.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-chest-klana.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-chest-klana",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-chest-klana",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "order": 16,
+    "title": "Побочный квест: «Честь Клана»",
+    "sidebar_position": 16
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Проклятие Белого Пика»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-proklyatie-belogo-pika"
+  },
+  "next": {
+    "title": "Старый Маг Тельбран",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/"
+  }
+}

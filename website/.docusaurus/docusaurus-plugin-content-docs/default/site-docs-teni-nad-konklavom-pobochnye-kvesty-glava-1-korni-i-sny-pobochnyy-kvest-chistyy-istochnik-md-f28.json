@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/pobochnyy-kvest-chistyy-istochnik",
+  "title": "Побочный квест: «Чистый источник»",
+  "description": "Выдающий Солнцеград (или другой крупный город, например, столица одного из княжеств). Уровень героев: 2-4",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/pobochnyy-kvest-chistyy-istochnik.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/pobochnyy-kvest-chistyy-istochnik",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/pobochnyy-kvest-chistyy-istochnik",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "order": 3,
+    "title": "Побочный квест: «Чистый источник»",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Аптека Корни и Сны",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/"
+  },
+  "next": {
+    "title": "Постоялый двор Позолоченный Единорог",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/pobochnyy-kvest-eres-v-ryadakh",
+  "title": "Побочный квест: «Ересь в рядах»",
+  "description": "Источник 500 зм, уникальный артефакт Ордена («Амулет непоколебимой веры», +1 к спасброскам против очарования и страха), или расположение одной из сторон. Уровень: 7-9",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/pobochnyy-kvest-eres-v-ryadakh.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/pobochnyy-kvest-eres-v-ryadakh",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/pobochnyy-kvest-eres-v-ryadakh",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "order": 5,
+    "title": "Побочный квест: «Ересь в рядах»",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест: «Украденная реликвия»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/kvest-ukradennaya-relikviya"
+  },
+  "next": {
+    "title": "Ярл Ульфрик Скай-Айс",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/"
+  }
+}

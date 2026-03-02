@@ -1,0 +1,28 @@
+{
+  "id": "avanyuristy/index",
+  "title": "Аванюристы",
+  "description": "",
+  "source": "@site/docs/avanyuristy/index.md",
+  "sourceDirName": "avanyuristy",
+  "slug": "/avanyuristy/",
+  "permalink": "/EteriaDoc/avanyuristy/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3.1,
+  "frontMatter": {
+    "order": 3.1,
+    "title": "Аванюристы",
+    "sidebar_position": 3.1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Культ «Сынов Безмолвного Шепота»",
+    "permalink": "/EteriaDoc/eteriya-lor/kult-synov-bezmolvnogo-shepota"
+  },
+  "next": {
+    "title": "Паша: Мидас Карлесон, Безмолвный Призрак Морей",
+    "permalink": "/EteriaDoc/avanyuristy/pasha-midas-karleson-bezmolvnyy-prizrak-morey"
+  }
+}

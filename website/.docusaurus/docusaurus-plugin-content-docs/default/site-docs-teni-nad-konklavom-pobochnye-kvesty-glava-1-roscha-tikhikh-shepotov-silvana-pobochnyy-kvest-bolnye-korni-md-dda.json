@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni",
+  "title": "Побочный квест: «Больные корни»",
+  "description": "Дающий: Алания, верховная жрица небольшого святилища Сильваны в Солнцеграде, известного как «Роща Тихых Шёпотов».",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.5,
+  "frontMatter": {
+    "order": 2.5,
+    "title": "Побочный квест: «Больные корни»",
+    "sidebar_position": 2.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Роща Тихих Шёпотов (Сильвана)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/"
+  },
+  "next": {
+    "title": "Побочный квест: «Голос природы»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody"
+  }
+}

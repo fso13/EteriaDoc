@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-5/index",
+  "title": "Глава 5: Сердце Тьмы (Уровни 13+)",
+  "description": "Антагонист главы: Архимаг Келвин Торн (усиленный, Archmage с лавкрафтианскими заклинаниями).",
+  "source": "@site/docs/teni-nad-konklavom/glava-5/index.md",
+  "sourceDirName": "teni-nad-konklavom/glava-5",
+  "slug": "/teni-nad-konklavom/glava-5/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5.7,
+  "frontMatter": {
+    "order": 5.7,
+    "title": "Глава 5: Сердце Тьмы (Уровни 13+)",
+    "sidebar_position": 5.7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Лавки и Таверны Глубинной Кузни",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/lavki-i-taverny-glubinnoy-kuzni"
+  },
+  "next": {
+    "title": "Квест 1: Улицы Безумия",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-1-ulicy-bezumiya"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki",
+  "title": "Побочный квест: «Исправление ошибки»",
+  "description": "Источник 300 зм, редкий магический компонент на выбор (например, Флакон с звёздной пылью или Сердце фазового паука), либо благословение Кошмара (см. ниже). Сложность: Средняя (рассчитана на уровень 4-6).",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 2,
+    "title": "Побочный квест: «Исправление ошибки»",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Стеклянная Летопись»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-steklyannaya-letopis"
+  },
+  "next": {
+    "title": "Сторож на Площади Ясного Неба",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/"
+  }
+}

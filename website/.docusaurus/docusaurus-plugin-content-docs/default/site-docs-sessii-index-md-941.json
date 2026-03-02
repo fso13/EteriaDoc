@@ -1,0 +1,28 @@
+{
+  "id": "sessii/index",
+  "title": "Сессии",
+  "description": "",
+  "source": "@site/docs/sessii/index.md",
+  "sourceDirName": "sessii",
+  "slug": "/sessii/",
+  "permalink": "/EteriaDoc/sessii/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "order": 7,
+    "title": "Сессии",
+    "sidebar_position": 7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Загадки",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/zagadki"
+  },
+  "next": {
+    "title": "Сессия 0",
+    "permalink": "/EteriaDoc/sessii/sessiya-0"
+  }
+}

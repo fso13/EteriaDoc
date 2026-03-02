@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/index",
+  "title": "Роща Тихих Шёпотов (Сильвана)",
+  "description": "",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "order": 18,
+    "title": "Роща Тихих Шёпотов (Сильвана)",
+    "sidebar_position": 18
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Святое место»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-svyatoe-mesto"
+  },
+  "next": {
+    "title": "Побочный квест: «Больные корни»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa/index",
+  "title": "Хозяин леса",
+  "description": "clipimage002-2.jpg",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6.8,
+  "frontMatter": {
+    "order": 6.8,
+    "title": "Хозяин леса",
+    "sidebar_position": 6.8
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Шёпот Тыквенной Головы",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy"
+  },
+  "next": {
+    "title": "Солнцеград",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/"
+  }
+}

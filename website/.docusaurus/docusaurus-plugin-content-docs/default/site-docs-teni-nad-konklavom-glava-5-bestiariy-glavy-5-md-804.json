@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-5/bestiariy-glavy-5",
+  "title": "Бестиарий Главы 5",
+  "description": "1\\. Обезумевший горожанин (Maddened Commoner)",
+  "source": "@site/docs/teni-nad-konklavom/glava-5/bestiariy-glavy-5.md",
+  "sourceDirName": "teni-nad-konklavom/glava-5",
+  "slug": "/teni-nad-konklavom/glava-5/bestiariy-glavy-5",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/bestiariy-glavy-5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "order": 6,
+    "title": "Бестиарий Главы 5",
+    "sidebar_position": 6
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Награды Главы 5",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/nagrady-glavy-5"
+  },
+  "next": {
+    "title": "Лавки и таверны Солнцеграда (на время осады)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady"
+  }
+}

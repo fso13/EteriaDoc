@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/index",
+  "title": "Монах-целитель у Собора Золотого Молота",
+  "description": "",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3.5,
+  "frontMatter": {
+    "order": 3.5,
+    "title": "Монах-целитель у Собора Золотого Молота",
+    "sidebar_position": 3.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Око Дозора»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora"
+  },
+  "next": {
+    "title": "Побочный квест: «Раненый в ночи»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-ranenyy-v-nochi"
+  }
+}

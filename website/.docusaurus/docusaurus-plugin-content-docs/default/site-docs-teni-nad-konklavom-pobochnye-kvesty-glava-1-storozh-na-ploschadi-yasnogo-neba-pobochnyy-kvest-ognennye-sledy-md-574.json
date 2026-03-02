@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy",
+  "title": "Побочный квест: «Огненные следы»",
+  "description": "Дающий: Сторож Еремей, пожилой, но бдительный стражник на Площади Ясного Неба в Солнцеграде.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Побочный квест: «Огненные следы»",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Сторож на Площади Ясного Неба",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/"
+  },
+  "next": {
+    "title": "Побочный квест: «Пепельные торговцы»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-pepelnye-torgovcy"
+  }
+}

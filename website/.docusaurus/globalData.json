@@ -1,0 +1,633 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/EteriaDoc/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/EteriaDoc/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar",
+              "path": "/EteriaDoc/avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "avanyuristy/index",
+              "path": "/EteriaDoc/avanyuristy/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "avanyuristy/misha-zhrec-kael-arden",
+              "path": "/EteriaDoc/avanyuristy/misha-zhrec-kael-arden",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "avanyuristy/pasha-midas-karleson-bezmolvnyy-prizrak-morey",
+              "path": "/EteriaDoc/avanyuristy/pasha-midas-karleson-bezmolvnyy-prizrak-morey",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "avanyuristy/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+              "path": "/EteriaDoc/avanyuristy/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "eteriya-lor/index",
+              "path": "/EteriaDoc/eteriya-lor/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "eteriya-lor/khramy-v-sol",
+              "path": "/EteriaDoc/eteriya-lor/khramy-v-sol",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "eteriya-lor/kult-synov-bezmolvnogo-shepota",
+              "path": "/EteriaDoc/eteriya-lor/kult-synov-bezmolvnogo-shepota",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "eteriya-lor/nps-mira",
+              "path": "/EteriaDoc/eteriya-lor/nps-mira",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak",
+              "path": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca",
+              "path": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/index",
+              "path": "/EteriaDoc/home/domashnie-pravila/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/kto-takie-kolduny-v-eterii",
+              "path": "/EteriaDoc/home/domashnie-pravila/kto-takie-kolduny-v-eterii",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/opcii-dlya-boya",
+              "path": "/EteriaDoc/home/domashnie-pravila/opcii-dlya-boya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/pokroviteli",
+              "path": "/EteriaDoc/home/domashnie-pravila/pokroviteli",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/pricelnaya-ataka",
+              "path": "/EteriaDoc/home/domashnie-pravila/pricelnaya-ataka",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/domashnie-pravila/voskreshenie",
+              "path": "/EteriaDoc/home/domashnie-pravila/voskreshenie",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/index",
+              "path": "/EteriaDoc/home/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "home/pregeny",
+              "path": "/EteriaDoc/home/pregeny",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/EteriaDoc/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "sessii/index",
+              "path": "/EteriaDoc/sessii/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "sessii/sessiya-0",
+              "path": "/EteriaDoc/sessii/sessiya-0",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/bestiariy",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/bestiariy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/epilog-audienciya-u-knyazya",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/epilog-audienciya-u-knyazya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/final-teni-proshlogo",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/final-teni-proshlogo",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/lavki-taverny",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/lavki-taverny",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/nagrady",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/nagrady",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/nps",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/nps",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/scena-1",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/scena-1",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/scena-2",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/scena-2",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-1/vstuplenie",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-1/vstuplenie",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/bestiariy",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/bestiariy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/final-pered-knyaginey",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/final-pered-knyaginey",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/kvest-1-nochnye-gosti/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/kvest-1-nochnye-gosti/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/kvest-2-bukhta-trekh-skal/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/kvest-2-bukhta-trekh-skal/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/kvest-3-chasovnya-v-lesu",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/kvest-3-chasovnya-v-lesu",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/lavki-i-taverny-peschanoy-kosy-i-okrestnostey",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/lavki-i-taverny-peschanoy-kosy-i-okrestnostey",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-2/nagrady",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-2/nagrady",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/bestiariy",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/bestiariy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/final-put-v-glubinu",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/final-put-v-glubinu",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/kvest-1-pereval-predateley/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/kvest-1-pereval-predateley/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/kvest-2-sud-gornykh-koroley",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/kvest-2-sud-gornykh-koroley",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/kvest-3-peschera-zabytykh-teney",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/kvest-3-peschera-zabytykh-teney",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/lavki-taverny",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/lavki-taverny",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-3/nagrady",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-3/nagrady",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/bestiariy-glavy-4-glubinnaya-kuznya",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/bestiariy-glavy-4-glubinnaya-kuznya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/kvest-1-ispytanie-raskalennym-zhelezom",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-1-ispytanie-raskalennym-zhelezom",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/kvest-2-zagovor-v-teni",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-2-zagovor-v-teni",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/lavki-i-taverny-glubinnoy-kuzni",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/lavki-i-taverny-glubinnoy-kuzni",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/nagrady-glavy-4",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/nagrady-glavy-4",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-4/perekhod-k-sleduyuschey-scene-epilog",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/bestiariy-glavy-5",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/bestiariy-glavy-5",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/kvest-1-ulicy-bezumiya",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-1-ulicy-bezumiya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/kvest-2-vrata-sobora",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-2-vrata-sobora",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/kvest-3-nef-koshmarov-glavnaya-bitva",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-3-nef-koshmarov-glavnaya-bitva",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/kvest-4-altar-bezdny-finalnaya-bitva",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-4-altar-bezdny-finalnaya-bitva",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/glava-5/nagrady-glavy-5",
+              "path": "/EteriaDoc/teni-nad-konklavom/glava-5/nagrady-glavy-5",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-kontrabanda-pod-nosom",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-kontrabanda-pod-nosom",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-nasledie-glubin",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-nasledie-glubin",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-pesn-siren",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-pesn-siren",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/kvest-tikhaya-gavan",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/kvest-tikhaya-gavan",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/pobochnyy-kvest-chistyy-istochnik",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/pobochnyy-kvest-chistyy-istochnik",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/pobochnyy-kvest-semeynaya-relikviya",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/pobochnyy-kvest-semeynaya-relikviya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/pyanyy-edinorog/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pyanyy-edinorog/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/pyanyy-edinorog/pobochnyy-kvest-dolg-chesti",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pyanyy-edinorog/pobochnyy-kvest-dolg-chesti",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-proklyatie-oborotnya",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-proklyatie-oborotnya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sestra-alisiya/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sestra-alisiya/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sestra-alisiya/kvest-lik-very",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sestra-alisiya/kvest-lik-very",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-ranenyy-v-nochi",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-ranenyy-v-nochi",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-svyatoe-mesto",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/monakh-celitel-u-sobora-zolotogo-molota/pobochnyy-kvest-svyatoe-mesto",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-oko-dozora",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/pobochnyy-kvest-ukradennye-klinki",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/pobochnyy-kvest-ukradennye-klinki",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-steklyannaya-letopis",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-steklyannaya-letopis",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-pepelnye-torgovcy",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-pepelnye-torgovcy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/kvest-ukradennaya-relikviya",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/kvest-ukradennaya-relikviya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/pobochnyy-kvest-eres-v-ryadakh",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/pobochnyy-kvest-eres-v-ryadakh",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-chest-klana",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-chest-klana",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-proklyatie-belogo-pika",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/yarl-ulfrik-skay-ays/pobochnyy-kvest-proklyatie-belogo-pika",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/khozyain-lesa/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/kvest-gostepriimstvo-lesnika",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kvest-gostepriimstvo-lesnika",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/index",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/pasha-midas-karleson-bezmolvnyy-prizrak-morey",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/pasha-midas-karleson-bezmolvnyy-prizrak-morey",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/pobochnye-kvesty/proklyatyy-staryy-dom-3-4-ur",
+              "path": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/proklyatyy-staryy-dom-3-4-ur",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/slukhi",
+              "path": "/EteriaDoc/teni-nad-konklavom/slukhi",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom",
+              "path": "/EteriaDoc/teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/tovary",
+              "path": "/EteriaDoc/teni-nad-konklavom/tovary",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "teni-nad-konklavom/zagadki",
+              "path": "/EteriaDoc/teni-nad-konklavom/zagadki",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/EteriaDoc/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-4/kvest-2-zagovor-v-teni",
+  "title": "Квест 2: Заговор в Тени",
+  "description": "Цель: Проникнуть в священную рощу, защищаемую духами, и не дать культистам осквернить гробницу дочери Аурелиуса.",
+  "source": "@site/docs/teni-nad-konklavom/glava-4/kvest-2-zagovor-v-teni.md",
+  "sourceDirName": "teni-nad-konklavom/glava-4",
+  "slug": "/teni-nad-konklavom/glava-4/kvest-2-zagovor-v-teni",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-2-zagovor-v-teni",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 2,
+    "title": "Квест 2: Заговор в Тени",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 1: Испытание Раскалённым Железом",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-1-ispytanie-raskalennym-zhelezom"
+  },
+  "next": {
+    "title": "Квест 3: Сердце Тьмы (Финальная конфронтация)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-4/kvest-3-serdce-tmy-finalnaya-konfrontaciya"
+  }
+}

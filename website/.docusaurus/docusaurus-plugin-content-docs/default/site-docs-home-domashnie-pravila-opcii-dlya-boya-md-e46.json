@@ -1,0 +1,28 @@
+{
+  "id": "home/domashnie-pravila/opcii-dlya-boya",
+  "title": "Опции для боя",
+  "description": "Вариант 1: Очки Превосходства (Универсальные)",
+  "source": "@site/docs/home/domashnie-pravila/opcii-dlya-boya.md",
+  "sourceDirName": "home/domashnie-pravila",
+  "slug": "/home/domashnie-pravila/opcii-dlya-boya",
+  "permalink": "/EteriaDoc/home/domashnie-pravila/opcii-dlya-boya",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "order": 3,
+    "title": "Опции для боя",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Уточнённые атаки",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak"
+  },
+  "next": {
+    "title": "Воскрешение",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/voskreshenie"
+  }
+}

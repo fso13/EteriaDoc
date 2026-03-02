@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-5/nagrady-glavy-5",
+  "title": "Награды Главы 5",
+  "description": "- Сокровища: С Торна можно снять Мантию Архимага и Посох Бездны (артефакт на усмотрение Мастера).",
+  "source": "@site/docs/teni-nad-konklavom/glava-5/nagrady-glavy-5.md",
+  "sourceDirName": "teni-nad-konklavom/glava-5",
+  "slug": "/teni-nad-konklavom/glava-5/nagrady-glavy-5",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/nagrady-glavy-5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "order": 5,
+    "title": "Награды Главы 5",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 4: Алтарь Бездны (Финальная битва)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-4-altar-bezdny-finalnaya-bitva"
+  },
+  "next": {
+    "title": "Бестиарий Главы 5",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/bestiariy-glavy-5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "home/index",
+  "title": "Home",
+  "description": "",
+  "source": "@site/docs/home/index.md",
+  "sourceDirName": "home",
+  "slug": "/home/",
+  "permalink": "/EteriaDoc/home/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.1,
+  "frontMatter": {
+    "order": 0.1,
+    "title": "Home",
+    "sidebar_position": 0.1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Добро пожаловать",
+    "permalink": "/EteriaDoc/"
+  },
+  "next": {
+    "title": "Домашние правила",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/"
+  }
+}

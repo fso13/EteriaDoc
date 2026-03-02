@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-5/kvest-2-vrata-sobora",
+  "title": "Квест 2: Врата Собора",
+  "description": "Цель: Герои должны прорваться через главные врата Собора Золотого Молота, которые захвачены и укреплены культистами.",
+  "source": "@site/docs/teni-nad-konklavom/glava-5/kvest-2-vrata-sobora.md",
+  "sourceDirName": "teni-nad-konklavom/glava-5",
+  "slug": "/teni-nad-konklavom/glava-5/kvest-2-vrata-sobora",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-2-vrata-sobora",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 2,
+    "title": "Квест 2: Врата Собора",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 1: Улицы Безумия",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-1-ulicy-bezumiya"
+  },
+  "next": {
+    "title": "Квест 3: Неф Кошмаров (Главная битва)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/kvest-3-nef-koshmarov-glavnaya-bitva"
+  }
+}

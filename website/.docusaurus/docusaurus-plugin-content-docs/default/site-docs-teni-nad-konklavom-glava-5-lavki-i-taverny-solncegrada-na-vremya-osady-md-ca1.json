@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady",
+  "title": "Лавки и таверны Солнцеграда (на время осады)",
+  "description": "1\\. «У Старого Олафа» (Таверна)",
+  "source": "@site/docs/teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady.md",
+  "sourceDirName": "teni-nad-konklavom/glava-5",
+  "slug": "/teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "order": 7,
+    "title": "Лавки и таверны Солнцеграда (на время осады)",
+    "sidebar_position": 7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Бестиарий Главы 5",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/bestiariy-glavy-5"
+  },
+  "next": {
+    "title": "Побочные квесты",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/"
+  }
+}

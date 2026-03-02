@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar",
+  "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+  "description": "Побочный квест: «Тень Чумного Ветра»",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "order": 3,
+    "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+    "sidebar_position": 3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Родион: Сигурд Громобой (Горный дварф, воин)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/rodion-sigurd-gromoboy-gornyy-dvarf-voin"
+  },
+  "next": {
+    "title": "Миша: Жрец Каэль Арден",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden"
+  }
+}

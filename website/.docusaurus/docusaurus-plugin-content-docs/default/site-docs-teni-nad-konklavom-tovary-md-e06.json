@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/tovary",
+  "title": "Товары",
+  "description": "Оружейная Мастерская",
+  "source": "@site/docs/teni-nad-konklavom/tovary.md",
+  "sourceDirName": "teni-nad-konklavom",
+  "slug": "/teni-nad-konklavom/tovary",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/tovary",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10.7,
+  "frontMatter": {
+    "order": 10.7,
+    "title": "Товары",
+    "sidebar_position": 10.7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Слухи",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/slukhi"
+  },
+  "next": {
+    "title": "Загадки",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/zagadki"
+  }
+}

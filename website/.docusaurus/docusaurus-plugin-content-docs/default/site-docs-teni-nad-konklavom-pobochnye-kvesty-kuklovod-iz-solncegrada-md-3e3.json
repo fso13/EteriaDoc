@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada",
+  "title": "Кукловод из Солнцеграда (5-7 ур)",
+  "description": "Завязка: Провал на сцене",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.1,
+  "frontMatter": {
+    "order": 2.1,
+    "title": "Кукловод из Солнцеграда (5-7 ур)",
+    "sidebar_position": 2.1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Недобрый знак с моря (5-7 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya"
+  },
+  "next": {
+    "title": "Шёпот Тыквенной Головы",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kvest-shepot-tykvennoy-golovy"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody",
+  "title": "Побочный квест: «Голос природы»",
+  "description": "Выдающий например, Элдервин). Локация Благословение Сильваны (на выбор: Амулет Говорящего с Духами -- преимущество на проверки Внимания/Анализа в дикой местности; или зелье Кровь Земли -- выпивший может один раз спросить совета у духов природы).",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "order": 5,
+    "title": "Побочный квест: «Голос природы»",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Больные корни»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-bolnye-korni"
+  },
+  "next": {
+    "title": "Побочный квест: «Проклятие оборотня»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-proklyatie-oborotnya"
+  }
+}

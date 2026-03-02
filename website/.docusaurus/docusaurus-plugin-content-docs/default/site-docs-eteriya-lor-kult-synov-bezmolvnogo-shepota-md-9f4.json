@@ -1,0 +1,28 @@
+{
+  "id": "eteriya-lor/kult-synov-bezmolvnogo-shepota",
+  "title": "Культ «Сынов Безмолвного Шепота»",
+  "description": "Девиз: «Во сне мы пробуждаемся. В молчании мы слышим Истину.»",
+  "source": "@site/docs/eteriya-lor/kult-synov-bezmolvnogo-shepota.md",
+  "sourceDirName": "eteriya-lor",
+  "slug": "/eteriya-lor/kult-synov-bezmolvnogo-shepota",
+  "permalink": "/EteriaDoc/eteriya-lor/kult-synov-bezmolvnogo-shepota",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Культ «Сынов Безмолвного Шепота»",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Храмы в Солнцеграде",
+    "permalink": "/EteriaDoc/eteriya-lor/khramy-v-sol"
+  },
+  "next": {
+    "title": "Аванюристы",
+    "permalink": "/EteriaDoc/avanyuristy/"
+  }
+}

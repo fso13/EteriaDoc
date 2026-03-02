@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-1/epilog-audienciya-u-knyazya",
+  "title": "Эпилог: Аудиенция у князя",
+  "description": "Окружение: Тронный зал Солнцеграда",
+  "source": "@site/docs/teni-nad-konklavom/glava-1/epilog-audienciya-u-knyazya.md",
+  "sourceDirName": "teni-nad-konklavom/glava-1",
+  "slug": "/teni-nad-konklavom/glava-1/epilog-audienciya-u-knyazya",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/epilog-audienciya-u-knyazya",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "order": 5,
+    "title": "Эпилог: Аудиенция у князя",
+    "sidebar_position": 5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Квест 3: Ночь на Площади Морвана",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/final-teni-proshlogo"
+  },
+  "next": {
+    "title": "Награды",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/nagrady"
+  }
+}

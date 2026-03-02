@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden",
+  "title": "Миша: Жрец Каэль Арден",
+  "description": "Побочный квест: «Тень у Каменного Идола»",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/misha-zhrec-kael-arden",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "order": 4,
+    "title": "Миша: Жрец Каэль Арден",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar"
+  },
+  "next": {
+    "title": "Список городов кампании «Тени над Конклавом»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom"
+  }
+}

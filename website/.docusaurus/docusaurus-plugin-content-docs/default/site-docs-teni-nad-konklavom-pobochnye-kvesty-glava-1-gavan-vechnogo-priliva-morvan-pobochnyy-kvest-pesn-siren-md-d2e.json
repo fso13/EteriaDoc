@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-pesn-siren",
+  "title": "Побочный квест: «Песнь сирен»",
+  "description": "Дающий 500 зм, благословение Морвана (на 7 дней персонажи получают скорость плавания 30 фт. и могут дышать под водой по 10 минут в день), магический ракушечный горн (Раковина Прилива -- 1 раз в день можно наложить Разговор с животными только на водных существ).",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-pesn-siren.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-pesn-siren",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-pesn-siren",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18.5,
+  "frontMatter": {
+    "order": 18.5,
+    "title": "Побочный квест: «Песнь сирен»",
+    "sidebar_position": 18.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Контрабанда под носом»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/pobochnyy-kvest-kontrabanda-pod-nosom"
+  },
+  "next": {
+    "title": "Верховный Инквизитор Каррик",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/"
+  }
+}

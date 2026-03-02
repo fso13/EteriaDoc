@@ -1,0 +1,28 @@
+{
+  "id": "eteriya-lor/nps-mira",
+  "title": "Список  НПС Этерии",
+  "description": "---",
+  "source": "@site/docs/eteriya-lor/nps-mira.md",
+  "sourceDirName": "eteriya-lor",
+  "slug": "/eteriya-lor/nps-mira",
+  "permalink": "/EteriaDoc/eteriya-lor/nps-mira",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.3,
+  "frontMatter": {
+    "order": 0.3,
+    "title": "Список  НПС Этерии",
+    "sidebar_position": 0.3
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Путеводитель по Этерии",
+    "permalink": "/EteriaDoc/eteriya-lor/"
+  },
+  "next": {
+    "title": "Храмы в Солнцеграде",
+    "permalink": "/EteriaDoc/eteriya-lor/khramy-v-sol"
+  }
+}

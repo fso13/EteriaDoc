@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/kvest-ukradennaya-relikviya",
+  "title": "Квест: «Украденная реликвия»",
+  "description": "Отлично! Детализируем этот квест, добавляя слои, дилеммы и возможности для ролевой игры.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/kvest-ukradennaya-relikviya.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/kvest-ukradennaya-relikviya",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/kvest-ukradennaya-relikviya",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2.5,
+  "frontMatter": {
+    "order": 2.5,
+    "title": "Квест: «Украденная реликвия»",
+    "sidebar_position": 2.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Верховный Инквизитор Каррик",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/"
+  },
+  "next": {
+    "title": "Побочный квест: «Ересь в рядах»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/verkhovnyy-inkvizitor-karrik/pobochnyy-kvest-eres-v-ryadakh"
+  }
+}

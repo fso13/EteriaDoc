@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-2/kvest-1-nochnye-gosti/index",
+  "title": "Квест 1: Ночные гости",
+  "description": "Цель: Защитить деревню от набега существ, похищающих ослабевших жителей.",
+  "source": "@site/docs/teni-nad-konklavom/glava-2/kvest-1-nochnye-gosti/index.md",
+  "sourceDirName": "teni-nad-konklavom/glava-2/kvest-1-nochnye-gosti",
+  "slug": "/teni-nad-konklavom/glava-2/kvest-1-nochnye-gosti/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-2/kvest-1-nochnye-gosti/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Квест 1: Ночные гости",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Глава 2: Удавка голода (Уровни 5-7)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-2/"
+  },
+  "next": {
+    "title": "Квест 2: Бухта Трёх Скал",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-2/kvest-2-bukhta-trekh-skal/"
+  }
+}

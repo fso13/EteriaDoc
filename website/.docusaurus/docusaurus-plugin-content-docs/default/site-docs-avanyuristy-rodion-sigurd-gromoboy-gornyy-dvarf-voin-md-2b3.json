@@ -1,0 +1,28 @@
+{
+  "id": "avanyuristy/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+  "title": "Родион: Сигурд Громобой (Горный дварф, воин)",
+  "description": "Родился в глубинах горного города Драгарн, известного своими кузнецами и воинами. С детства Сигурд был окружен звуками молотов и наковален, и его судьба, казалось, была предопределена -- стать мастером кузнечного дела. Однако, в его сердце всегда горел огонь приключений и жажда битвы.",
+  "source": "@site/docs/avanyuristy/rodion-sigurd-gromoboy-gornyy-dvarf-voin.md",
+  "sourceDirName": "avanyuristy",
+  "slug": "/avanyuristy/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+  "permalink": "/EteriaDoc/avanyuristy/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1.4,
+  "frontMatter": {
+    "order": 1.4,
+    "title": "Родион: Сигурд Громобой (Горный дварф, воин)",
+    "sidebar_position": 1.4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Паша: Мидас Карлесон, Безмолвный Призрак Морей",
+    "permalink": "/EteriaDoc/avanyuristy/pasha-midas-karleson-bezmolvnyy-prizrak-morey"
+  },
+  "next": {
+    "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+    "permalink": "/EteriaDoc/avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar"
+  }
+}

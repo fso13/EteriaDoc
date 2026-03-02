@@ -1,0 +1,28 @@
+{
+  "id": "home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca",
+  "title": "Искусство кузнеца",
+  "description": "Эти правила позволяют персонажам создавать и улучшать снаряжение, вкладывая в это время, ресурсы и мастерство.",
+  "source": "@site/docs/home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca.md",
+  "sourceDirName": "home/domashnie-pravila",
+  "slug": "/home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca",
+  "permalink": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Искусство кузнеца",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Домашние правила",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/"
+  },
+  "next": {
+    "title": "Уточнённые атаки",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak"
+  }
+}

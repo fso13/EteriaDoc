@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-steklyannaya-letopis",
+  "title": "Побочный квест: «Стеклянная Летопись»",
+  "description": "Источник 7-9 (после основных событий в Солнцеграде). Награда: Значительная сумма золота (500 зм), магический предмет на выбор (например, Кольцо защиты +1 или Свиток заклинания 3-го уровня), доступ к архивам Тельбрана.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-steklyannaya-letopis.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-steklyannaya-letopis",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-steklyannaya-letopis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Побочный квест: «Стеклянная Летопись»",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Старый Маг Тельбран",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/"
+  },
+  "next": {
+    "title": "Побочный квест: «Исправление ошибки»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki"
+  }
+}

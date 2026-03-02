@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya",
+  "title": "Недобрый знак с моря (5-7 ур)",
+  "description": "Обзор",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/nedobryy-znak-s-morya",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.9,
+  "frontMatter": {
+    "order": 0.9,
+    "title": "Недобрый знак с моря (5-7 ур)",
+    "sidebar_position": 0.9
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Хой! Пляска Мертвого Анархиста (3-5 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/khoy-plyaska-mertvogo-anarkhista/"
+  },
+  "next": {
+    "title": "Кукловод из Солнцеграда (5-7 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kuklovod-iz-solncegrada"
+  }
+}

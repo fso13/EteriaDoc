@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/index",
+  "title": "Собор Золотого Молота (Этериус)",
+  "description": "",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17.5,
+  "frontMatter": {
+    "order": 17.5,
+    "title": "Собор Золотого Молота (Этериус)",
+    "sidebar_position": 17.5
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Семейная реликвия»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/pozolochennyy-edinorog/pobochnyy-kvest-semeynaya-relikviya"
+  },
+  "next": {
+    "title": "Побочный квест: «Милость к падшим»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/sobor-zolotogo-molota-eterius/pobochnyy-kvest-milost-k-padshim"
+  }
+}

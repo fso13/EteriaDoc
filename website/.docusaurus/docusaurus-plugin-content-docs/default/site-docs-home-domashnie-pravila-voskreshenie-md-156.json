@@ -1,0 +1,28 @@
+{
+  "id": "home/domashnie-pravila/voskreshenie",
+  "title": "Воскрешение",
+  "description": "1\\. Ритуал Жрецов Танатоса (Наиболее \"Законный\" способ)",
+  "source": "@site/docs/home/domashnie-pravila/voskreshenie.md",
+  "sourceDirName": "home/domashnie-pravila",
+  "slug": "/home/domashnie-pravila/voskreshenie",
+  "permalink": "/EteriaDoc/home/domashnie-pravila/voskreshenie",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "order": 4,
+    "title": "Воскрешение",
+    "sidebar_position": 4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Опции для боя",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/opcii-dlya-boya"
+  },
+  "next": {
+    "title": "Покровители",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/pokroviteli"
+  }
+}

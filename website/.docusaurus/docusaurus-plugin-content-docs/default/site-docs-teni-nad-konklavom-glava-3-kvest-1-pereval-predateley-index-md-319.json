@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/glava-3/kvest-1-pereval-predateley/index",
+  "title": "Квест 1: Перевал Предателей",
+  "description": "Цель: Перехватить отряд культа, перевозящий останки Принцессы Ланы, до того как они достигнут убежища в горах Хаймрока.",
+  "source": "@site/docs/teni-nad-konklavom/glava-3/kvest-1-pereval-predateley/index.md",
+  "sourceDirName": "teni-nad-konklavom/glava-3/kvest-1-pereval-predateley",
+  "slug": "/teni-nad-konklavom/glava-3/kvest-1-pereval-predateley/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/glava-3/kvest-1-pereval-predateley/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Квест 1: Перевал Предателей",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Глава 3: Кровь Аурелиуса (Уровни 8-10)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-3/"
+  },
+  "next": {
+    "title": "Квест 2: Суд горных королей",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-3/kvest-2-sud-gornykh-koroley"
+  }
+}

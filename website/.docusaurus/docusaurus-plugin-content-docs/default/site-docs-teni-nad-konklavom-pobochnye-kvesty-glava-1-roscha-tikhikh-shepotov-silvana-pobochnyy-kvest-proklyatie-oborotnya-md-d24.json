@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-proklyatie-oborotnya",
+  "title": "Побочный квест: «Проклятие оборотня»",
+  "description": "Дающий например, Элдервин). Локация 300 зм, серебряный амулет с волчьим клыком (даёт преимущество на спасброски против очарования и превращения), благосклонность жрецов Сильваны.",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-proklyatie-oborotnya.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-proklyatie-oborotnya",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-proklyatie-oborotnya",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "order": 10,
+    "title": "Побочный квест: «Проклятие оборотня»",
+    "sidebar_position": 10
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Голос природы»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/roscha-tikhikh-shepotov-silvana/pobochnyy-kvest-golos-prirody"
+  },
+  "next": {
+    "title": "Гавань Вечного Прилива (Морван)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/gavan-vechnogo-priliva-morvan/"
+  }
+}

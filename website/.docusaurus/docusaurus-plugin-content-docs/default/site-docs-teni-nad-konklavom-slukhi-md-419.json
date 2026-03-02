@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/slukhi",
+  "title": "Слухи",
+  "description": "Слухи и разговоры на улицах и в тавернах",
+  "source": "@site/docs/teni-nad-konklavom/slukhi.md",
+  "sourceDirName": "teni-nad-konklavom",
+  "slug": "/teni-nad-konklavom/slukhi",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/slukhi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9.7,
+  "frontMatter": {
+    "order": 9.7,
+    "title": "Слухи",
+    "sidebar_position": 9.7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Список городов кампании «Тени над Конклавом»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/spisok-gorodov-kampanii-teni-nad-konklavom"
+  },
+  "next": {
+    "title": "Товары",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/tovary"
+  }
+}

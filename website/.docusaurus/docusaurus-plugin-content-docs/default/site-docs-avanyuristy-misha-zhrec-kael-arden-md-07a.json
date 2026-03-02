@@ -1,0 +1,28 @@
+{
+  "id": "avanyuristy/misha-zhrec-kael-arden",
+  "title": "Миша: Жрец Каэль Арден",
+  "description": "[!WARNING]",
+  "source": "@site/docs/avanyuristy/misha-zhrec-kael-arden.md",
+  "sourceDirName": "avanyuristy",
+  "slug": "/avanyuristy/misha-zhrec-kael-arden",
+  "permalink": "/EteriaDoc/avanyuristy/misha-zhrec-kael-arden",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3.4,
+  "frontMatter": {
+    "order": 3.4,
+    "title": "Миша: Жрец Каэль Арден",
+    "sidebar_position": 3.4
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+    "permalink": "/EteriaDoc/avanyuristy/borya-grommash-krovavyy-topor-poluork-varvar"
+  },
+  "next": {
+    "title": "ТЕНИ НАД КОНКЛАВОМ",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/"
+  }
+}

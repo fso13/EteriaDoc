@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+  "title": "Родион: Сигурд Громобой (Горный дварф, воин)",
+  "description": "Название квеста: «Призраки Медвежьей Долины»",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/rodion-sigurd-gromoboy-gornyy-dvarf-voin.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/rodion-sigurd-gromoboy-gornyy-dvarf-voin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 2,
+    "title": "Родион: Сигурд Громобой (Горный дварф, воин)",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Паша: Мидас Карлесон, Безмолвный Призрак Морей",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/pasha-midas-karleson-bezmolvnyy-prizrak-morey"
+  },
+  "next": {
+    "title": "Боря: Громмаш Кровавый Топор - Полуорк (Варвар-берсерк)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/borya-grommash-krovavyy-topor-poluork-varvar"
+  }
+}

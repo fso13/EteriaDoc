@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/index",
+  "title": "Сторож на Площади Ясного Неба",
+  "description": "",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "order": 22,
+    "title": "Сторож на Площади Ясного Неба",
+    "sidebar_position": 22
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Побочный квест: «Исправление ошибки»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/staryy-mag-telbran/pobochnyy-kvest-ispravlenie-oshibki"
+  },
+  "next": {
+    "title": "Побочный квест: «Огненные следы»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/storozh-na-ploschadi-yasnogo-neba/pobochnyy-kvest-ognennye-sledy"
+  }
+}

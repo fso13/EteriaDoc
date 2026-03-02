@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/index",
+  "title": "Побочные квесты",
+  "description": "",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/index.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6.7,
+  "frontMatter": {
+    "order": 6.7,
+    "title": "Побочные квесты",
+    "sidebar_position": 6.7
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Лавки и таверны Солнцеграда (на время осады)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/glava-5/lavki-i-taverny-solncegrada-na-vremya-osady"
+  },
+  "next": {
+    "title": "Гостеприимство Лесника(2-4 ур)",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/kvest-gostepriimstvo-lesnika"
+  }
+}

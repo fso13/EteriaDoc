@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/kvest-tikhaya-gavan",
+  "title": "Квест: «Тихая гавань»",
+  "description": "Выдача квеста:",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/kvest-tikhaya-gavan.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/kvest-tikhaya-gavan",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/kvest-tikhaya-gavan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 1,
+    "title": "Квест: «Тихая гавань»",
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Капитан Маркус",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/kapitan-markus/"
+  },
+  "next": {
+    "title": "Личные побочные квесты",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/lichnye-pobochnye-kvesty/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak",
+  "title": "Уточнённые атаки",
+  "description": "Рассчитывайте сложность в зависимости от AC противника:",
+  "source": "@site/docs/home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak.md",
+  "sourceDirName": "home/domashnie-pravila",
+  "slug": "/home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak",
+  "permalink": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-dlya-utochnennykh-atak",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 2,
+    "title": "Уточнённые атаки",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Искусство кузнеца",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/domashnie-pravila-iskusstvo-kuzneca"
+  },
+  "next": {
+    "title": "Опции для боя",
+    "permalink": "/EteriaDoc/home/domashnie-pravila/opcii-dlya-boya"
+  }
+}

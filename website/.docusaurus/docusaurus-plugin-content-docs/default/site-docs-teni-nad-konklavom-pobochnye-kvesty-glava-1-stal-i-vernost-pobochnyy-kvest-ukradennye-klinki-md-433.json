@@ -1,0 +1,28 @@
+{
+  "id": "teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/pobochnyy-kvest-ukradennye-klinki",
+  "title": "Побочный квест: «Украденные клинки»",
+  "description": "Дающий Выбор одного клинка из украденной партии (например, Короткий меч +1, Топор с руной огня (+1d4 огненного урона) или Кинжал с ядом (КС 13, 1d6 урона ядом 1/день)).",
+  "source": "@site/docs/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/pobochnyy-kvest-ukradennye-klinki.md",
+  "sourceDirName": "teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost",
+  "slug": "/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/pobochnyy-kvest-ukradennye-klinki",
+  "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/pobochnyy-kvest-ukradennye-klinki",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 2,
+    "title": "Побочный квест: «Украденные клинки»",
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Оружейня «Сталь и Верность»",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/stal-i-vernost/"
+  },
+  "next": {
+    "title": "Аптека Корни и Сны",
+    "permalink": "/EteriaDoc/teni-nad-konklavom/pobochnye-kvesty/glava-1/korni-i-sny/"
+  }
+}
