@@ -1,7 +1,7 @@
 {
   "id": "teni-nad-konklavom/glava-1/lavki-taverny",
-  "title": "Лавки/Таверны Солнцеграда",
-  "description": "1\\. Таверна «Пьяный Единорог» (Бедный квартал)",
+  "title": "Лавки и Таверны Солнцеграда",
+  "description": "1. Таверна «Пьяный Единорог» (Бедный квартал)",
   "source": "@site/docs/teni-nad-konklavom/glava-1/lavki-taverny.md",
   "sourceDirName": "teni-nad-konklavom/glava-1",
   "slug": "/teni-nad-konklavom/glava-1/lavki-taverny",
@@ -13,7 +13,7 @@
   "sidebarPosition": 8,
   "frontMatter": {
     "order": 8,
-    "title": "Лавки/Таверны Солнцеграда",
+    "title": "Лавки и Таверны Солнцеграда",
     "sidebar_position": 8
   },
   "sidebar": "mainSidebar",

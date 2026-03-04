@@ -43,6 +43,23 @@ function convertContent(content, filePath) {
   // Удалить <view defs="..." display="..."/>
   result = result.replace(/<view[^>]*\/>\s*/g, '');
 
+  // Конвертировать GitHub-style callouts > [!TYPE] в <note> (как в Хозяин леса)
+  const calloutTypeMap = {
+    NOTE: '',
+    TIP: ' type="tip"',
+    WARNING: ' type="warning"',
+    IMPORTANT: ' type="info"',
+    CAUTION: ' type="danger"',
+  };
+  result = result.replace(
+    /^> \[!(NOTE|TIP|WARNING|IMPORTANT|CAUTION)\]\r?\n> ?\r?\n((?:> ?.*\r?\n)*?)(?=\r?\n\r?\n|\r?\n---|$)/gm,
+    (_, type, content) => {
+      const typeAttr = calloutTypeMap[type] || '';
+      const inner = content.replace(/^> ?/gm, '').trim();
+      return `<note${typeAttr}>\n\n${inner}\n\n</note>`;
+    }
+  );
+
   // Конвертировать изображения {width=... height=...} в HTML для контроля размера
   result = result.replace(
     /!\[([^\]]*)\]\((\.\/[^)]+)\)\{width=(\d+)px height=(\d+)px\}/g,
@@ -70,10 +87,10 @@ function convertContent(content, filePath) {
     return `:::${docusaurusType}\n${content}\n:::`;
   });
 
-  // Конвертировать <note> без type в blockquote
+  // Конвертировать <note> без type в :::note (Docusaurus admonition)
   result = result.replace(/<note>\s*([\s\S]*?)\s*<\/note>/g, (_, inner) => {
-    const lines = inner.trim().split('\n');
-    return lines.map((l) => '> ' + l).join('\n');
+    const content = inner.trim();
+    return `:::note\n${content}\n:::`;
   });
 
   // Конвертировать <image src="..." .../> в markdown
@@ -85,8 +102,29 @@ function convertContent(content, filePath) {
   // Нормализовать списки: -  (двойной пробел) -> - (один пробел), включая вложенные
   result = result.replace(/^(\s*)-  /gm, '$1- ');
 
+  // Нормализовать метки: **Метка:** -> ***Метка***: для категорий (кроме игровых: Цель, Задача, Босс, Награда)
+  const categoryLabels = ['Внешний вид', 'Атмосфера', 'Окружение', 'Описание', 'Внешность', 'Детали', 'Информация', 'Локация', 'Зацепки', 'Расспросы', 'Помощь', 'Внутреннее убранство', 'Детали интерьера', 'Описание здания', 'Ключевая информация', 'Новые цели', 'НПС-союзник', 'Направления для расследования', 'Информация от соседки', 'Крючок', 'Пути перехода', 'Социальное взаимодействие', 'Внутри таверны'];
+  categoryLabels.forEach((label) => {
+    const re = new RegExp(`\\*\\*${label}\\*\\*:`, 'g');
+    result = result.replace(re, `***${label}***:`);
+  });
+
+  // Нумерованные структурные параграфы: 1\. Title -> ### 1. Title
+  result = result.replace(/^(\d+)\\. (.+)$/gm, '### $1. $2');
+
+  // Этап N: Title -> ### N. Title (для квестов с форматом "Этап 1:", "Этап 2:")
+  result = result.replace(/^#{0,4}\s*Этап (\d+):\s*(.+)$/gm, '### $1. $2');
+
+  // Сцена N: Title -> ### N. Title (для квестов с форматом "Сцена 1:", "Сцена 2:")
+  result = result.replace(/^#{0,4}\s*Сцена (\d+):\s*(.+)$/gm, '### $1. $2');
+
   // Удалить пустые заголовки ### \n и ## \n
   result = result.replace(/^(#{2,6})\s*\n/gm, '');
+
+  // Admonition :::note должен начинаться с начала строки — убрать префиксы списков
+  result = result.replace(/^(\d+)\.\s+:::([a-z]+)\n/gm, ':::$2\n');
+  result = result.replace(/^-\s+:::([a-z]+)\n/gm, ':::$1\n');
+  result = result.replace(/(\*\*\*[^*]+\*\*\*:)\s*-\s+:::([a-z]+)\n/g, '$1\n\n:::$2\n');
 
   return result;
 }
@@ -121,7 +159,7 @@ function walkDir(dir, baseDir = dir) {
       if (!EXCLUDE_DIRS.includes(entry.name)) {
         walkDir(fullPath, baseDir);
       }
-    } else if (entry.name.endsWith('.md') && !entry.name.match(/^README/i)) {
+    } else if (entry.name.endsWith('.md') && !entry.name.match(/^README|^FORMATTING-STYLE/i)) {
       migrateFile(fullPath, relPath);
       console.log('Migrated:', relPath);
     }

@@ -1,7 +1,7 @@
 {
   "id": "teni-nad-konklavom/glava-1/nps",
   "title": "Персонажи Главы 1: «Шепот в камне»",
-  "description": "---",
+  "description": "1. Картер",
   "source": "@site/docs/teni-nad-konklavom/glava-1/nps.md",
   "sourceDirName": "teni-nad-konklavom/glava-1",
   "slug": "/teni-nad-konklavom/glava-1/nps",
@@ -18,7 +18,7 @@
   },
   "sidebar": "mainSidebar",
   "previous": {
-    "title": "Лавки/Таверны Солнцеграда",
+    "title": "Лавки и Таверны Солнцеграда",
     "permalink": "/EteriaDoc/teni-nad-konklavom/glava-1/lavki-taverny"
   },
   "next": {
